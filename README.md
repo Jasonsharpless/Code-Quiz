@@ -14,6 +14,6 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-repository link 
+repository link https://github.com/Jasonsharpless/Code-Quiz
 
-website link 
+website link https://jasonsharpless.github.io/Code-Quiz/
